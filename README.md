@@ -103,11 +103,11 @@ The dashboard is interactive, and the KPIs and charts update when different slic
 
 ### Executive Dashboard
 
-![Executive Dashboard](Screenshots/Executive-Dashboard.png)
+![Executive Dashboard](Screenshots/Executive-Dashboard.jpg)
 
 ### Product, Customer & Operations
 
-![Product Customer Operations](Screenshots/Product-Customer-Operations.png)
+![Product Customer Operations](Screenshots/Product-Customer-Operations.jpg)
 
 ---
 
